@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# 🎓 RentPrompts Academy — UI Revamp (2025)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a complete frontend **revamp of the RentPrompts Academy** page — redesigned to feel modern, interactive, and built with a clean visual identity that connects with today's creators and AI learners.
 
-## Available Scripts
+### 🚀 What’s New?
 
-In the project directory, you can run:
+This version of the Academy page:
+- Looks more ✨ youth-friendly and bold
+- Follows a consistent theme with the main RentPrompts site
+- Adds smooth scroll animations, live notifications, interactive elements, and a futuristic vibe
+- Includes custom sections built from scratch using React + TailwindCSS
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🧱 Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| Tool                | Purpose                               |
+|---------------------|----------------------------------------|
+| **React**           | Frontend framework                     |
+| **TailwindCSS**     | Modern utility-first styling           |
+| **Framer Motion**   | Scroll + entrance animations           |
+| **Lucide React**    | Clean and lightweight icons            |
+| **React Carousel**  | Hero image rotation                    |
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📦 Features
 
-### `npm run build`
+- 🔥 Full-screen **Hero section** with rotating backgrounds
+- 🎯 Scroll-based animations and entrance effects
+- 💬 Live Notification + Chatbot icon UI
+- 🧠 Humanized content & visual storytelling
+- 📚 Modular sections: Programs, Testimonials, FAQs, Features, etc.
+- ✨ Responsive & mobile-friendly
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🎨 Theming & Design Choices
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We stayed consistent with RentPrompts' existing style but made it more engaging by using:
+- A deep dark gradient background
+- Bright accent colors (green, pink, purple)
+- Soft shadows, glow hovers, and 3D card tilt
+- Motion to tell a story visually
 
-### `npm run eject`
+Fonts:
+- `Orbitron` for a futuristic heading feel
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Colors:
+```js
+neon: '#00fff7',
+magenta: '#ff00c8',
+cyber: '#0f0f1a',
